@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 639.13 441.59" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="118.04" x2="111.24" y1="250.64" y2="259.05" gradientTransform="scale(1.7811 .56144)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".40833" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="132.25" x2="114.93" y1="259.43" y2="353.04" gradientTransform="scale(1.5608 .64072)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#fff" stop-opacity=".175" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".375" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="73.293" x2="147.05" y1="218.54" y2="218.54" gradientTransform="scale(2.1949 .4556)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(-38.254 -179.35)">
+  <g transform="matrix(1.3107 0 0 1.3107 35.774 86.247)" fill-rule="evenodd">
+   <path d="m93.858 201.9c2.914-12.97 5.827-102.33 32.052-100.89 93.23 2.88 189.38-93.69 259.3 121.07 215.6 100.9 14.99 181.97-155.69 174.77-168.66-7.07-312.66-128.65-135.66-194.95z" fill="#d90000" fill-opacity=".99167" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+   <path d="m89.488 230.73c107.8 67.74 285.52 25.94 292.81-7.21 10.19 11.53 0 43.24 0 43.24-46.62 60.54-272.42 47.57-297.18 4.33-2.916-11.53 2.911-36.04 4.368-40.36z" stroke="#000" stroke-width="5"/>
+   <path d="m130.28 122.63c27.68-24.505 148.59 10.09 164.61 28.83 5.83 31.71-148.59 7.2-164.61-28.83z" fill="url(#d)" stroke-width="1pt"/>
+   <path d="m130.28 158.66c13.11 30.27 64.09 100.9 150.04 33.15-71.38 2.89-101.97-5.76-150.04-33.15z" fill="url(#c)" stroke-width="1pt"/>
+   <path d="m160.87 99.567c18.94 8.643 138.39 41.803 151.5 31.713 14.57-5.77 11.66-8.65 4.37-10.09-11.65 7.2-32.05 11.53-155.87-21.623z" fill="url(#b)" stroke-width="1pt"/>
+   <path d="m106.97 246.58c17.48 8.65 71.38 20.18 91.78 21.62 14.56 10.09 7.28 25.95 1.45 37.48-39.33 0-84.49-10.09-96.14-23.06-7.288-12.97-4.375-23.06 2.91-36.04z" fill="#fff" fill-opacity=".31667" stroke="#000" stroke-width="1.8783pt"/>
+  </g>
+  <g transform="matrix(5.5071,0,0,5.5071,-1052,-2439.7)" fill="none">
+   <path d="m219.81 506.7c0.17-0.77-1.18 10.41-0.92 7.99 1.71-9.5 0.99-19.79 4.82-28.83 0.95-1.99 2.17-3.26 3.73-3.17 22.19 0.69 45.07-22.3 61.71 28.81 51.31 24.02 3.57 43.31-37.05 41.6-40.14-1.68-74.42-30.62-32.29-46.4z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2.38"/>
+  </g>
+ </g>
+</svg>

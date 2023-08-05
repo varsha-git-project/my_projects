@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 239.45 194.88" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="-.72692" x2="-.38957" y1="-1.7501" y2="-1.7106" xlink:href="#a"/>
+  <linearGradient id="e" x1="-.4419" x2="-.18502" y1=".14838" y2=".16774" xlink:href="#a"/>
+ </defs>
+ <g fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+  <path d="m7.5 7.5l26.448 21.228 24.708 86.653h121.8l54.636-79.693" fill="url(#e)"/>
+  <path d="m58.481 115.83l-25.826 36.662h173.8" fill="url(#d)"/>
+ </g>
+ <path d="m72.577 177.77a15.312 15.312 0 1 1 -30.624 0 15.312 15.312 0 1 1 30.624 0z"/>
+ <path d="m185.33 177.77a15.312 15.312 0 1 1 -30.624 0 15.312 15.312 0 1 1 30.624 0z"/>
+ <g fill="none" stroke="#000" stroke-width="4">
+  <path d="m37.08 40.212h193.49"/>
+  <path d="m44.736 65.965l169.13 0.696"/>
+  <path d="m51.696 88.933h146.16"/>
+  <path d="m53.022 39.798v58.18"/>
+  <path d="m80.887 39.798v74.952"/>
+  <path d="m110.75 39.798v74.952"/>
+  <path d="m140.71 39.798v74.952"/>
+  <path d="m172.84 39.798v74.428"/>
+  <path d="m204.88 39.733v38.77"/>
+ </g>
+</svg>

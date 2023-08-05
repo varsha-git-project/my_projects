@@ -1,0 +1,88 @@
+
+.test_div
+{
+    height: 800px;
+    overflow: scroll;
+}
+.navbar-brand
+{
+    /* letter-spacing: 2px; */
+    font-weight: bolder;
+    font-size: larger;
+}
+.card-img-top
+{
+    height: 300px;
+}
+.navbar
+{
+    background-color: #8e557f;
+    /* background-color: #1c18185e; */
+}
+.card
+{
+    transition: all 0.5 ease;
+    align-content: space-between;
+}
+.navbar nav{
+    color: white;
+
+}
+
+.nav-item:hover
+{
+color: beige;
+;
+
+}
+/* .card:hover */
+/* { */
+    /* transform: scale(1.1); */
+    /* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); */
+/*  */
+/* } */
+.card-img-top
+{
+    object-fit: contain;
+} 
+ .Toastify__toast--success {
+    border: 1px solid black !important;
+    /* border-radius: 50px !important; */
+    background: white !important;
+ }
+ .toastProgress {
+    background: #333F48 !important;
+  }
+  .container
+  {
+    overflow: hidden;
+  }
+.test
+{
+    object-fit: fill;
+}
+.test1:hover
+{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+
+}
+.bgtest
+{
+    background-color: #ffd0d7;
+    /* background-color: #c7a0bb; */
+}
+.btn
+{
+    background-color: #905a82 !important;
+}
+
+.bgtry
+{
+    background-color: #f1e7ee;
+}
+.border_try
+{
+    border-color: #905a82 !important;
+}
